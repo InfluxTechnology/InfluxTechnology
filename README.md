@@ -1,1 +1,1 @@
-# InfluxTechnology
+# http://influxtechnology.github.io
